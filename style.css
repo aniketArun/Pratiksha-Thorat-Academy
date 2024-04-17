@@ -87,7 +87,7 @@
 
 .hero{
     color: aliceblue;
-    background-image: url("Assets/Images/makeup.jpg");
+    background-image: url("Assets/makeup.jpg");
     height: 60vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -104,7 +104,7 @@
 }
 
 .sub-hero{
-    background-image: url("Assets/Images/makeup_toolkits.png");
+    background-image: url("Assets/makeup_toolkits.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
